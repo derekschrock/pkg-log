@@ -17,7 +17,6 @@ c48dcf6 Tue Jul 29 15:00:12 2014 +0000 Rename sysutils/ patch-xy patches to refl
 
 full package name:
 ```
-pkg log screen-4.2.1_5
 $ pkg log screen-4.2.1_5
 a3341c8 Wed Mar 11 01:25:46 2015 +0000 Advertise CPE info.
 700f453 Sun Feb 1 14:30:29 2015 +0000 Fix pkg-plist.
